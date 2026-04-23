@@ -1,4 +1,4 @@
-# test.executefrommemory
+# Windows security internals
 
 여러 보안 취약점, OS 동작 원리 등의 이해를 위한 테스트 프로젝트.
 
